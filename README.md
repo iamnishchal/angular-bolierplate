@@ -1,6 +1,6 @@
 # AngularBoilerPlate
 
-This is a sample boiler plate for angular applicatin 
+This is a sample boiler plate for angular application
 
 ## Development server
 
